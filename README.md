@@ -38,48 +38,6 @@ Fract-ol is a fractal explorer that renders mathematical fractals in real-time. 
 git clone https://github.com/MMMBenchahyd/Fract-ol.git
 cd Fract-ol
 ```
-2. Compile the project:
-   Thought for 1s```markdown
-# Fract-ol
-
-A 42 School project that generates and displays beautiful fractals using the MiniLibX graphics library.
-
-## 📖 About
-
-Fract-ol is a fractal explorer that renders mathematical fractals in real-time. This project introduces fundamental concepts of complex numbers, mathematical optimization, and event-driven programming while creating visually stunning fractal patterns.
-
-## ✨ Features
-
-### Mandatory Part
-- **Mandelbrot Set**: Classic fractal with infinite complexity at its boundary
-- **Julia Set**: Beautiful fractal patterns with customizable parameters
-- **Real-time Rendering**: Smooth fractal generation and display
-- **Interactive Controls**: Mouse and keyboard navigation
-- **Zoom Functionality**: Mouse wheel zooming in and out infinitely
-- **Color Gradients**: Multiple color schemes to visualize fractal depth
-- **Window Management**: Proper window handling with ESC key exit
-
-### Bonus Features
-- **Additional Fractals**: Extended fractal types beyond Mandelbrot and Julia
-- **Enhanced Interactions**: Advanced mouse and keyboard controls
-- **Optimized Rendering**: Improved performance for smoother experience
-- **Custom Color Palettes**: Multiple color schemes and transitions
-
-## 🚀 Getting Started
-
-### Prerequisites
-- GCC compiler
-- Make
-- MiniLibX library (included in 42 environment)
-- X11 development libraries (Linux)
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/MMMBenchahyd/Fract-ol.git
-cd Fract-ol
-```
 
 2. Compile the project:
 
